@@ -28,3 +28,4 @@ Example:
 3 3 1 5 yes
 
 The code tracks each number and will run recursively if a "wall" is hit, which means it will go back wards until it finds another path to follow
+This code was part of a homework assignment for the Data Structures and Abstractions available at my school
